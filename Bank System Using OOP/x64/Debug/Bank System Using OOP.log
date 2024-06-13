@@ -1,0 +1,22 @@
+﻿  Bank System Using OOP.cpp
+C:\Users\user\source\repos\Bank System Using OOP\Bank System Using OOP\clsString.h(30,19): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\user\source\repos\Bank System Using OOP\Bank System Using OOP\clsString.h(33,23): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\user\source\repos\Bank System Using OOP\Bank System Using OOP\clsString.h(40,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\user\source\repos\Bank System Using OOP\Bank System Using OOP\clsString.h(175,20): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\user\source\repos\Bank System Using OOP\Bank System Using OOP\clsString.h(242,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\user\source\repos\Bank System Using OOP\Bank System Using OOP\clsString.h(278,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\source\repos\Bank System Using OOP\Bank System Using OOP\clsDate.h(2,32): warning C4081: expected 'newline'; found ';'
+C:\Users\user\source\repos\Bank System Using OOP\Bank System Using OOP\clsUtil.h(62,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\source\repos\Bank System Using OOP\Bank System Using OOP\clsUtil.h(74,12): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\source\repos\Bank System Using OOP\Bank System Using OOP\clsInputValidate.h(88,11): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\source\repos\Bank System Using OOP\Bank System Using OOP\clsInputValidate.h(92,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\source\repos\Bank System Using OOP\Bank System Using OOP\Client.h(345,23): warning C4240: nonstandard extension used: access to 'Client::stTransferLog' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\user\source\repos\Bank System Using OOP\Bank System Using OOP\Client.h(24,9): message : see declaration of 'Client::stTransferLog'
+C:\Users\user\source\repos\Bank System Using OOP\Bank System Using OOP\TotalBalancesScreen.h(47,81): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\user\source\repos\Bank System Using OOP\Bank System Using OOP\AddNewUserScreen.h(40,18): warning C4244: '+=': conversion from 'double' to 'short', possible loss of data
+C:\Users\user\source\repos\Bank System Using OOP\Bank System Using OOP\UpdateUserScreen.h(30,18): warning C4244: '+=': conversion from 'double' to 'short', possible loss of data
+C:\Users\user\source\repos\Bank System Using OOP\Bank System Using OOP\Client.h(284): warning C4715: 'Client::save': not all control paths return a value
+C:\Users\user\source\repos\Bank System Using OOP\Bank System Using OOP\User.h(254): warning C4715: 'User::save': not all control paths return a value
+C:\Users\user\source\repos\Bank System Using OOP\Bank System Using OOP\clsString.h(271): warning C4715: 'clsString::trimLeft': not all control paths return a value
+C:\Users\user\source\repos\Bank System Using OOP\Bank System Using OOP\clsString.h(284): warning C4715: 'clsString::trimRight': not all control paths return a value
+  Bank System Using OOP.vcxproj -> C:\Users\user\source\repos\Bank System Using OOP\x64\Debug\Bank System Using OOP.exe
